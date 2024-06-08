@@ -5,7 +5,7 @@ from scipy.stats import linregress
 def draw_plot():
     # Read data from file
 
-
+    None
     # Create scatter plot
 
 
